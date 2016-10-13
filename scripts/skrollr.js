@@ -11,7 +11,7 @@
   * Free to use under terms of MIT license
   *
   *
-  * Attention, I modified this file. Albino.
+  * Attention, I modified this file
   *
   */
  (function(document, window) {
@@ -76,7 +76,7 @@
  		}
  	};
 
- 	
+
 
  	/*
 		Handles the click on a link. May be called without an actual click event.
@@ -103,7 +103,7 @@
  		}
  		//If there's a data-menu-top attribute and no handleLink function, it overrides the actual anchor offset.
  		else {
- 			
+
  			menuTop = _scenes[scenetoLoad].begin + _scenes[scenetoLoad].menuoffset;
  		}
 

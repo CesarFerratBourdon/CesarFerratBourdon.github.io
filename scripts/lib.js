@@ -27,7 +27,7 @@ Site.defaults = {
 	smoothScrolling: true
 };
 Site.addVideoPlayer = function() {
-	$('#videoPlayer').append('<iframe id="vimeoPlayer" src="//player.vimeo.com/video/88016428" width="100%" height="100%"  frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>');
+	$('#videoPlayer').append('<iframe id="vimeoPlayer" src="https://www.youtube.com/embed/nKIu9yen5nc?rel=0" width="100%" height="100%"  frameborder="0" allowfullscreen></iframe>');
 };
 Site.ajax = function(url, data, datatype, success, failure) {
 	$.ajax({
