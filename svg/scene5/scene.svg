@@ -10,10 +10,11 @@
 	<rect x="-7653.467" y="-7098.016" fill="#2BACB5" stroke="#000000" stroke-miterlimit="10" width="15687.934" height="14889.029"/>
 </g>
 <g id="june">
-	<text transform="matrix(1 0 0 1 29.9998 411.6318)" fill="#E84D5B" font-weight="100" font-size="36">October 2016,</text>
-	<text transform="matrix(1 0 0 1 29.9998 469.2314)" fill="#E84D5B" font-weight="100" font-size="48">Now time has come for me</text>
+	<text transform="matrix(1 0 0 1 29.9998 411.6318)" fill="#E84D5B" font-weight="100" font-size="30">October 2016,</text>
+	<text transform="matrix(1 0 0 1 29.9998 469.2314)" fill="#E84D5B" font-weight="100" font-size="48">Now...time has come for me</text>
 	<text transform="matrix(1 0 0 1 29.9998 512.4316)" fill="#E84D5B" font-weight="100" font-size="48">to land into a great company!</text>
-	<text transform="matrix(1 0 0 1 29.9998 555.6318)" fill="#E84D5B" font-weight="100" font-size="36">I am looking for a full-time software engineer position </text>
+	<!-- <text transform="matrix(1 0 0 1 29.9998 555.6318)" fill="#E84D5B" font-weight="100" font-size="36">I am looking for a full-time software engineer position </text> -->
+
 	<text transform="matrix(1 0 0 1 29.9998 598.832)" fill="#E84D5B" font-weight="100" font-size="36">building innovative, elegant, scalable customer-centric products</text>
 </g>
 <g id="london">
@@ -1263,7 +1264,7 @@
 				c-38.063-10.392-76.304-21.288-114.296-32.446C-3507.587,176.064-3331.908,180.793-3104.601,180.793z"/>
 		</g>
 		<g id="workshare">
-			<path fill="#FFFFFF" d="M-1630.411,107.365c0-4.164,0-8.328,0-12.492c0-5.207,4.02-9.327,9.308-9.222
+			<!-- <path fill="#FFFFFF" d="M-1630.411,107.365c0-4.164,0-8.328,0-12.492c0-5.207,4.02-9.327,9.308-9.222
 				c3.3,0.064,6.59,0.528,9.878,0.87c7.483,0.781,14.948,1.74,22.444,2.354c5.309,0.435,8.321,4.5,7.99,8.545
 				c-0.057,0.685,0.008,1.377-0.013,2.064c-0.048,1.555-1.042,2.666-2.424,2.739c-1.393,0.075-2.659-1.01-2.814-2.51
 				c-0.091-0.887-0.044-1.788-0.056-2.681c-0.016-1.238-0.505-1.848-1.778-1.959c-3.191-0.279-6.389-0.512-9.584-0.741
@@ -1366,7 +1367,7 @@
 				c0-0.967,0-1.931,0-3.199c0.71,0.143,1.493,0.233,2.204,0.509c0.134,0.052-0.023,0.838-0.047,1.288
 				c-0.086-0.003-0.172-0.007-0.26-0.012c0.188,0.414,0.376,0.828,0.562,1.24c-0.091,0.073-0.18,0.143-0.271,0.216
 				C-1323.375,112.331-1323.874,111.843-1324.458,111.273z"/>
-		</g>
+		</g> -->
 	</g>
 	<path fill="#E4E2D6" d="M-613.805,113.708c1.362,3.703,2.144,7.403,2.075,11.062c-0.681,53.85-140.402,177.335-774.927,177.335
 		h-1596.005c-299.253,0-973.021-231.278-973.021-231.278s314.837,134.567,1272.271,134.567

@@ -83,16 +83,16 @@ nav #bar {
 @-skrollr-keyframes menubar {
   nav 0  {
     transform: scale(0, 1);
-    fill: rgba(52, 152, 219, 0.99); }
+    fill: rgba(43, 17, 0, 0.99); }
   nav 600  {
     transform: scale(0.34, 1);
-    fill: rgba(52, 152, 219, 0.99); }
+    fill: rgba(43, 17, 0, 0.99); }
   nav 620  {
     transform: scale(0.35, 1);
-    fill: rgba(68, 198, 80, 0.99); }
+    fill: rgba(255, 102, 0, 0.99); }
   nav 900  {
     transform: scale(0.38, 1);
-    fill: rgba(68, 198, 80, 0.99); }
+    fill: rgba(255, 102, 0, 0.99); }
   nav 2700  {
     transform: scale(0.58, 1);
     fill: rgba(68, 198, 80, 0.99); }
@@ -131,13 +131,13 @@ nav #barleft {
   -skrollr-animation-name: barleft; }
 @-skrollr-keyframes barleft {
   nav 0  {
-    fill: rgba(52, 152, 219, 0.99); }
+    fill: rgba(43, 17, 0, 0.99); }
   nav 600  {
-    fill: rgba(52, 152, 219, 0.99); }
+    fill: rgba(43, 17, 0, 0.99); }
   nav 620  {
-    fill: rgba(68, 198, 80, 0.99); }
+    fill: rgba(255, 102, 0, 0.99); }
   nav 1700  {
-    fill: rgba(68, 198, 80, 0.99); }
+    fill: rgba(255, 102, 0, 0.99); }
   nav 2700  {
     fill: rgba(68, 198, 80, 0.99); }
   nav 2720  {
