@@ -11,7 +11,7 @@
 		<text id="sc-menu1" transform="matrix(1 0 0 1 96.0068 38.2969)" fill="#F5ECD9" font-weight="400" font-size="24">ABOUT ME</text>
 		<text id="sc-menu2" transform="matrix(1 0 0 1 352.3423 38.2969)" fill="#F5ECD9" font-weight="400" font-size="24">SKILLS</text>
 		<text id="sc-menu4" transform="matrix(1 0 0 1 587.4268 38.2969)" fill="#F5ECD9" font-weight="400" font-size="24">WORK</text>
-		<text id="sc-menu5" transform="matrix(1 0 0 1 797.9951 38.2969)" fill="#F5ECD9" font-weight="400" font-size="24">CONNECT</text>
+		<text id="sc-menu5" transform="matrix(1 0 0 1 797.9951 38.2969)" fill="#F5ECD9" font-weight="400" font-size="24">CONTACT</text>
 	</g>
 </g>
 </svg>
