@@ -201,7 +201,7 @@ Site.loadScene = function(element, callback) {
 	});
 };
 Site.clickEvents = function() {
-	
+
 	$('#viewresume').bind('click', function() {
 		Site.hide();
 	});
@@ -226,12 +226,7 @@ Site.clickEvents = function() {
 	$('#githubsite').bind('click', function() {
 		window.open('http://github.com/cesarbourdon/cesarbourdon.github.io', '_blank');
 	});
-	$('#worksharelogo,#junetext').bind('click', function() {
-		window.open('http://www.workshare.com', '_blank');
-	});
-	$('#pegu').bind('click', function() {
-		window.open('http://www.pegu.it', '_blank');
-	});
+	
 
 
 	$('#reopen').bind('click', function(e) {
