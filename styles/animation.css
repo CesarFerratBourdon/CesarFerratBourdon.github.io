@@ -1696,10 +1696,10 @@ nav #barright {
   #scene4 3950  {
     opacity: 0;
     transform: translate(500px, 0px); } }
-#scene5 #email, #scene5 #linkedin, #scene5 #skype, #scene5 #numidia, #scene5 #l500px, #scene5 #numidia, #scene5 #addressnumidia, #scene5 #phone, #scene5 #contactresume, #scene5 #githubsite, #scene5 #pegu, #scene5 #junetext, #scene5 #worksharelogo {
+#scene5 #email, #scene5 #linkedin, #scene5 #skype, #scene5 #numidia, #scene5 #github, #scene5 #numidia, #scene5 #addressnumidia, #scene5 #phone, #scene5 #contactresume, #scene5 #githubsite, #scene5 #pegu, #scene5 #junetext, #scene5 #worksharelogo {
   cursor: pointer;
   transition-duration: 500ms; }
-#scene5 #email:hover text, #scene5 #linkedin:hover text, #scene5 #skype:hover text, #scene5 #numidia:hover text, #scene5 #l500px:hover text, #scene5 #numidia:hover text, #scene5 #addressnumidia:hover tspan, #scene5 #phone:hover text, #scene5 #contactresume:hover text, #scene5 #githubsite:hover text, #scene5 #pegu:hover text, #scene5 #junetext:hover text {
+#scene5 #email:hover text, #scene5 #linkedin:hover text, #scene5 #skype:hover text, #scene5 #numidia:hover text, #scene5 #github:hover text, #scene5 #numidia:hover text, #scene5 #addressnumidia:hover tspan, #scene5 #phone:hover text, #scene5 #contactresume:hover text, #scene5 #githubsite:hover text, #scene5 #pegu:hover text, #scene5 #junetext:hover text {
   fill: rgba(44, 62, 80, 0.99); }
 #scene5 #passionate {
   -skrollr-animation-name: passionate; }
