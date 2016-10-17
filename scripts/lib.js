@@ -206,7 +206,7 @@ Site.clickEvents = function() {
 		Site.hide();
 	});
 	$('#email').bind('click', function() {
-		window.open('mailto:cesarbourdon1@gmail.com');
+		window.open('mailto:cesar.bourdon1@gmail.com');
 	});
 	$('#linkedin').bind('click', function() {
 		window.open('http://www.linkedin.com/in/cesarbourdon1', '_blank');
@@ -218,15 +218,15 @@ Site.clickEvents = function() {
 		window.open('skype:je-suis-fier-de-toi');
 	});
 	$('#l500px').bind('click', function() {
-		window.open('http://500px.com/albinotonnina', '_blank');
+		window.open('http://github.com/cesarferratbourdon', '_blank');
 	});
 	$('#contactresume').bind('click', function() {
 		Site.hide();
 	});
 	$('#githubsite').bind('click', function() {
-		window.open('http://github.com/cesarbourdon/cesarbourdon.github.io', '_blank');
+		window.open('http://github.com/cesarferratbourdon/cesarferratbourdon.github.io', '_blank');
 	});
-	
+
 
 
 	$('#reopen').bind('click', function(e) {
