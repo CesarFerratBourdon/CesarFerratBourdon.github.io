@@ -538,7 +538,7 @@ jQuery(function() {
 		Site.init();
 	});
 });
-jQuery(window).unload(function() {
+jQuery(window).on("beforeunload", function() {
 	Site.removeMe();
 });
 jQuery(window).resize(function() {
