@@ -217,7 +217,7 @@ Site.clickEvents = function() {
 	$('#skype').bind('click', function() {
 		window.open('skype:je-suis-fier-de-toi');
 	});
-	$('#l500px').bind('click', function() {
+	$('#github').bind('click', function() {
 		window.open('http://github.com/cesarferratbourdon', '_blank');
 	});
 	$('#contactresume').bind('click', function() {
