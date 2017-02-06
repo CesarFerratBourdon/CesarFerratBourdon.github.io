@@ -847,7 +847,7 @@
          id="text399"
          x="716.58197"
          y="54"
-         style="font-size:18.00629997px;font-weight:400;fill:#ffffff">jQuery / JavaScript libraries</text>
+         style="font-size:18.00629997px;font-weight:400;fill:#ffffff">JavaScript (ES6)</text>
 <circle
          fill="#FFFFFF"
          cx="750.15"
@@ -860,7 +860,7 @@
          fill="#FFFFFF"
          font-weight="400"
          font-size="18.0063"
-         id="text406">Heroku</text>
+         id="text406">React.js / Node.js</text>
 <circle
          fill="#FFFFFF"
          cx="382.009"
@@ -874,7 +874,7 @@
          id="text413"
          style="font-size:18.00629997px;font-weight:400;fill:#ffffff"
          x="171.3105"
-         y="375.73141">RESTful web services</text>
+         y="375.73141">Heroku</text>
 <circle
          cx="382.009"
          cy="369.73001"
