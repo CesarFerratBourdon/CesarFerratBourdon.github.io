@@ -860,8 +860,8 @@
          fill="#FFFFFF"
          font-weight="400"
          font-size="18.0063"
-         id="text406">React.js / Node.js</text>
-<circle
+         id="text406">Heroku</text>
+<!-- <circle
          fill="#FFFFFF"
          cx="382.009"
          cy="409.73"
@@ -874,7 +874,7 @@
          id="text413"
          style="font-size:18.00629997px;font-weight:400;fill:#ffffff"
          x="171.3105"
-         y="375.73141">Heroku</text>
+         y="375.73141">Heroku</text> -->
 <circle
          cx="382.009"
          cy="369.73001"
@@ -1146,7 +1146,7 @@
          fill="#FFFFFF"
          font-weight="400"
          font-size="18.0063"
-         id="text527">CSS3</text>
+         id="text527">React.js / Node.js</text>
 </g></g><g
      id="skill05"><g
        id="g530"><text
