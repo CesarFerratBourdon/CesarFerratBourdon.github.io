@@ -853,14 +853,15 @@
          cx="750.15"
          cy="75.986"
          r="17.385"
-         id="circle401" /></g></g><g
+         id="circle401" /></g></g>
+         <!-- <g
      id="skill12"><g
        id="g404"><text
          transform="matrix(1 0 0 1 398.4229 416.793)"
          fill="#FFFFFF"
          font-weight="400"
          font-size="18.0063"
-         id="text406">Heroku</text>
+         id="text406">Heroku</text> -->
 <!-- <circle
          fill="#FFFFFF"
          cx="382.009"
