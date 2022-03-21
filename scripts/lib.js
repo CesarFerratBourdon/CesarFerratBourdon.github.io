@@ -169,7 +169,7 @@ Site.buildScenes = function(obj) {
 	});
 	$('figure[role=site]').append('<div id="videoPlayer" />');
 	if (!Site.isMobile()) {
-		$('aside').append('<h3><a id="reopen" href="#">Re-open full version</a></h3>');
+		$('aside').append('<h3><a id="reopen" href="#">Re-open interactive CV</a></h3>');
 	}
 	//var debug = document.createElement('div');
 	//$(debug).attr('class', 'debug');

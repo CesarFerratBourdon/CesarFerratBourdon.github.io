@@ -69,7 +69,7 @@
            font-weight="100"
            font-size="30"
            id="text10">I’m César Bourdon, Geek &amp; MBA ;)</text>
-					 <text transform="matrix(1 0 0 1 30.7058 487.1562)" fill="#ECF0F1" font-weight="100" font-size="30">Full-stack developer and Tech enthusiast,</text></g>
+					 <text transform="matrix(1 0 0 1 30.7058 487.1562)" fill="#ECF0F1" font-weight="100" font-size="30">Front-end developer and Tech enthusiast,</text></g>
 					 <g
          id="intro2"><text
            transform="matrix(1 0 0 1 30.2058 537.6025)"
@@ -82,7 +82,7 @@
            fill="#F5F7FA"
            font-weight="100"
            font-size="30"
-           id="text15">I am currently looking for a new oportunity in Oslo</text>
+           id="text15">After 5 great years at Storebrand, I am looking for a new exciting oportunity in Oslo</text>
 <!-- <text transform="matrix(1 0 0 1 30.2058 573.6025)" fill="#F5F7FA" font-weight="100" font-size="30">I am now looking for a full-time engineer position</text> --></g></g><g
        id="macbook"><path
          fill="#586273"

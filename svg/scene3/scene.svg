@@ -825,7 +825,7 @@
          fill="#FFFFFF"
          font-weight="400"
          font-size="18.0063"
-         id="text387">Ruby</text>
+         id="text387">Angular</text>
 </g></g><g
      id="skill02"><g
        id="g390"><text
@@ -833,7 +833,7 @@
          fill="#FFFFFF"
          font-weight="400"
          font-size="18.0063"
-         id="text392">Ruby on Rails</text>
+         id="text392">Redux</text>
 <circle
          fill="#FFFFFF"
          cx="540.15"
@@ -847,7 +847,7 @@
          id="text399"
          x="716.58197"
          y="54"
-         style="font-size:18.00629997px;font-weight:400;fill:#ffffff">JavaScript (ES6)</text>
+         style="font-size:18.00629997px;font-weight:400;fill:#ffffff">Typescript</text>
 <circle
          fill="#FFFFFF"
          cx="750.15"
@@ -933,7 +933,7 @@
          fill="#FFFFFF"
          font-weight="400"
          font-size="18.0063"
-         id="text441">TDD</text>
+         id="text441">Pair programming</text>
 <circle
          cx="448.08899"
          cy="216.5"
@@ -952,7 +952,7 @@
          id="text448"
          x="329.08981"
          y="275.9111"
-         style="font-size:18.00629997px;font-weight:400;fill:#ffffff">SVG</text>
+         style="font-size:18.00629997px;font-weight:400;fill:#ffffff">Ruby</text>
 <circle
          fill="#FFFFFF"
          cx="392.728"
@@ -1147,7 +1147,7 @@
          fill="#FFFFFF"
          font-weight="400"
          font-size="18.0063"
-         id="text527">React.js / Node.js</text>
+         id="text527">React</text>
 </g></g><g
      id="skill05"><g
        id="g530"><text

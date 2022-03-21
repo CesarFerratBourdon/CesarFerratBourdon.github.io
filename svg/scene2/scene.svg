@@ -1137,7 +1137,7 @@
          fill="#ECF0F1"
          font-weight="300"
          font-size="18"
-         id="text288">OO Programming</text>
+         id="text288">Angular</text>
 <g
          id="g290"><text
            transform="matrix(1 0 0 1 17.0908 176.7949)"
@@ -1150,7 +1150,7 @@
            fill="#ECF0F1"
            font-weight="300"
            font-size="18"
-           id="text294">Full-stack development</text>
+           id="text294">Front-end development</text>
 <text
            transform="matrix(1 0 0 1 53.0781 176.9785)"
            fill="#ECF0F1"
@@ -1175,7 +1175,7 @@
            fill="#ECF0F1"
            font-weight="300"
            font-size="18"
-           id="text304">Responsive Web Design</text>
+           id="text304">React</text>
 <text
            transform="matrix(1 0 0 1 117.1089 224.4893)"
            fill="#ECF0F1"
