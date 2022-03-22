@@ -1031,13 +1031,16 @@
 			<text transform="matrix(1 0 0 1 65.6077 645.0439)" fill="#F5ECD9" font-weight="100" font-size="18">View resume</text>
 		</g>
 	</g>
-	<text transform="matrix(1 0 0 1 26.6038 402.7188)" fill="#F5ECD9" font-weight="100" font-size="36">To stay connected:</text>
+	<text transform="matrix(1 0 0 1 26.6038 402.7188)" fill="#F5ECD9" font-weight="100" font-size="36">To get in touch:</text>
 	<g id="rightside">
 		<g>
 			<!-- <text transform="matrix(1 0 0 1 610.2288 682.8135)" fill="#F5ECD9" font-weight="100" font-size="18">Thanks to Albino Tonnina for the awesome template</text> -->
 		</g>
 		<text transform="matrix(1 0 0 1 606.6038 402.7188)" fill="#F5ECD9" font-weight="100" font-size="36">This website:</text>
 		<g id="githubsite">
+			<g>
+				<text transform="matrix(1 0 0 1 666.0549 633.4824)" fill="#F5ECD9" font-weight="100" font-size="18"> and is hosted as a public repository on GitHub.</text>
+			</g>
 			<path fill="#F5ECD9" d="M622.635,638.003c-0.132,0.144-0.3,0.129-0.501-0.081c-0.22-0.188-0.256-0.343-0.104-0.475
 				c0.128-0.146,0.298-0.129,0.503,0.078C622.736,637.71,622.766,637.869,622.635,638.003z M621.573,636.464
 				c0.152,0.202,0.152,0.36,0,0.474c-0.133,0.102-0.281,0.041-0.429-0.177c-0.148-0.216-0.148-0.379,0-0.457
@@ -1069,9 +1072,6 @@
 				c-0.188,0.033-0.472,0.041-0.829,0.041h-5.66c-2.007,0-3.716-0.715-5.138-2.133c-1.417-1.422-2.135-3.141-2.135-5.142V614.32
 				c0-2.006,0.714-3.715,2.135-5.141c1.417-1.424,3.131-2.134,5.138-2.134h24.235c2.005,0,3.715,0.71,5.136,2.134
 				c1.422,1.415,2.135,3.135,2.135,5.141L651.591,614.324z"/>
-			<g>
-				<text transform="matrix(1 0 0 1 666.0549 633.4824)" fill="#F5ECD9" font-weight="100" font-size="18"> and has a public repository on GitHub.</text>
-			</g>
 		</g>
 		<g>
 			<path fill="#F5ECD9" d="M631.97,475.007c0-0.384-0.203-0.731-0.533-0.925l-8.818-5.076c-0.146-0.088-0.312-0.134-0.482-0.14

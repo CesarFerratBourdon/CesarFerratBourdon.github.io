@@ -14,6 +14,6 @@
 5. <https://github.com/caolan/async>
 6. <http://modernizr.com>
 
-Adapted from Albino Tonnina's awesome website. Props and credit go to you.
-I had a lot of fun understanding the code, learning svg animation, and adapting it.
-Humbled by learning from the best.
+Adapted from Albino Tonnina's awesome website. All Props and credit go to him.
+I had a lot of fun understanding his code, learning svg animations, and adapting it.
+Humbled by learning from the best!

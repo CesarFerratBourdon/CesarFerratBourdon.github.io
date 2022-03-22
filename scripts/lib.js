@@ -212,10 +212,7 @@ Site.clickEvents = function() {
 		window.open('http://www.linkedin.com/in/cesarbourdon1', '_blank');
 	});
 	$('#phone').bind('click', function() {
-		window.open('tel:+1 305-586-1276');
-	});
-	$('#skype').bind('click', function() {
-		window.open('skype:je-suis-fier-de-toi');
+		window.open('tel:+47 48112177');
 	});
 	$('#github').bind('click', function() {
 		window.open('http://github.com/cesarferratbourdon', '_blank');
