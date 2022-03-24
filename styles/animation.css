@@ -1445,8 +1445,8 @@ nav #barright {
   -skrollr-animation-name: unilever; }
 #scene4 #clients #alitalia {
   -skrollr-animation-name: alitalia; }
-#scene4 #clients #enel {
-  -skrollr-animation-name: enel; }
+#scene4 #clients #storebrand {
+  -skrollr-animation-name: storebrand; }
 #scene4 #clients #equitalia {
   -skrollr-animation-name: equitalia; }
 #scene4 #clients #infostrada {
@@ -1487,7 +1487,7 @@ nav #barright {
   #scene4 3400  {
     transform: translate(0px, 0px) scale(1);
     opacity: 1; } }
-@-skrollr-keyframes enel {
+@-skrollr-keyframes storebrand {
   #scene4 3450  {
     transform: translate(-2600px, -8000px) scale(16);
     opacity: 0; }
