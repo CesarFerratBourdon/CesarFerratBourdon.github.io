@@ -1491,8 +1491,8 @@ nav #barright {
   #scene4 2980  {
     transform: translate(-3000px, -8000px) scale(16);
     opacity: 0; }
-  #scene4 3500  {
-    transform: translate(0px, 0px) scale(2);
+  #scene4 3100  {
+    transform: translate(0px, 0px) scale(1);
     opacity: 1; } }
 @-skrollr-keyframes equitalia {
   #scene4 3560  {
