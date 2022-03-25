@@ -1396,20 +1396,20 @@ nav #barright {
 #scene4 #titles #title3 {
   -skrollr-animation-name: title3; }
 @-skrollr-keyframes title1 {
-  #scene4 3000  {
+  #scene4 2800  {
     opacity: 0; }
-  #scene4 3100  {
+  #scene4 2850  {
     opacity: 1; }
-  #scene4 3200  {
+  #scene4 3050  {
     opacity: 1; }
   #scene4 3250  {
     opacity: 0; } }
 @-skrollr-keyframes title2 {
   #scene4 3000  {
     opacity: 0; }
-  #scene4 3200  {
+  #scene4 3100  {
     opacity: 0; }
-  #scene4 3250  {
+  #scene4 3150  {
     opacity: 1; }
   #scene4 3900  {
     opacity: 1; }
@@ -1489,10 +1489,10 @@ nav #barright {
     opacity: 1; } } */
 @-skrollr-keyframes storebrand {
   #scene4 3200  {
-    transform: translate(-4700px, -8000px) scale(36);
+    transform: translate(-300px, -8000px) scale(16);
     opacity: 0; }
   #scene4 3500  {
-    transform: translate(600px, 600px) scale(4);
+    transform: translate(100px, 100px) scale(1);
     opacity: 1; } }
 @-skrollr-keyframes equitalia {
   #scene4 3560  {
