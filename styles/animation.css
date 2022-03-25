@@ -1400,16 +1400,16 @@ nav #barright {
     opacity: 0; }
   #scene4 3100  {
     opacity: 1; }
-  #scene4 3300  {
+  #scene4 3200  {
     opacity: 1; }
-  #scene4 3350  {
+  #scene4 3250  {
     opacity: 0; } }
 @-skrollr-keyframes title2 {
   #scene4 3000  {
     opacity: 0; }
-  #scene4 3400  {
+  #scene4 3200  {
     opacity: 0; }
-  #scene4 3450  {
+  #scene4 3250  {
     opacity: 1; }
   #scene4 3900  {
     opacity: 1; }
@@ -1489,10 +1489,10 @@ nav #barright {
     opacity: 1; } } */
 @-skrollr-keyframes storebrand {
   #scene4 3200  {
-    transform: translate(-4700px, -8000px) scale(8);
+    transform: translate(-4700px, -8000px) scale(36);
     opacity: 0; }
   #scene4 3500  {
-    transform: translate(0px, 0px) scale(1);
+    transform: translate(600px, 600px) scale(4);
     opacity: 1; } }
 @-skrollr-keyframes equitalia {
   #scene4 3560  {
