@@ -1489,10 +1489,10 @@ nav #barright {
     opacity: 1; } }
 @-skrollr-keyframes storebrand {
   #scene4 3450  {
-    transform: translate(-4700px, -8000px) scale(16);
+    transform: translate(-1000px, -2000px) scale(16);
     opacity: 0; }
   #scene4 3500  {
-    transform: translate(0px, 0px) scale(1);
+    transform: translate(1000px, 2000px) scale(1);
     opacity: 1; } }
 @-skrollr-keyframes equitalia {
   #scene4 3560  {
