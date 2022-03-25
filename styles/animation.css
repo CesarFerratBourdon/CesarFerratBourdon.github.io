@@ -1402,7 +1402,7 @@ nav #barright {
     opacity: 1; }
   #scene4 3050  {
     opacity: 1; }
-  #scene4 3250  {
+  #scene4 3100  {
     opacity: 0; } }
 @-skrollr-keyframes title2 {
   #scene4 3000  {
@@ -1460,10 +1460,10 @@ nav #barright {
 #scene4 #clients #wind {
   -skrollr-animation-name: wind; }
 @-skrollr-keyframes unilever {
-  #scene4 3100  {
+  #scene4 2800  {
     transform: translate(-3000px, -8000px) scale(16);
     opacity: 0; }
-  #scene4 3150  {
+  #scene4 2950  {
     transform: translate(0px, 0px) scale(1);
     opacity: 1; } }
 /* @-skrollr-keyframes luiss {
@@ -1488,11 +1488,11 @@ nav #barright {
     transform: translate(0px, 0px) scale(1);
     opacity: 1; } } */
 @-skrollr-keyframes storebrand {
-  #scene4 3150  {
+  #scene4 2980  {
     transform: translate(-3000px, -8000px) scale(16);
     opacity: 0; }
   #scene4 3500  {
-    transform: translate(0px, 0px) scale(3);
+    transform: translate(0px, 0px) scale(2);
     opacity: 1; } }
 @-skrollr-keyframes equitalia {
   #scene4 3560  {
