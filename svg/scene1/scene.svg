@@ -68,21 +68,29 @@
            fill="#ECF0F1"
            font-weight="100"
            font-size="30"
-           id="text10">I’m César Bourdon, Geek &amp; MBA ;)</text>
-					 <text transform="matrix(1 0 0 1 30.7058 487.1562)" fill="#ECF0F1" font-weight="100" font-size="30">Front-end developer and Tech enthusiast,</text></g>
+           id="text10">I’m César Bourdon</text>
+					 <text transform="matrix(1 0 0 1 30.7058 487.1562)" fill="#ECF0F1" font-weight="100" font-size="30">MBA alumni &amp; Senior Front-end developer</text></g>
 					 <g
          id="intro2"><text
            transform="matrix(1 0 0 1 30.2058 537.6025)"
            fill="#F5F7FA"
            font-weight="100"
            font-size="30"
-           id="text13">I worked &amp; studied in 6 countries in Europe, Asia, America</text>
-<!-- <text transform="matrix(1 0 0 1 30.2058 573.6025)" fill="#F5F7FA" font-weight="100" font-size="30">in 5 different countries</text> --><text
+           id="text13">After 8 great years at Storebrand, in the Bank and then B2B team,</text>
+<!-- <text transform="matrix(1 0 0 1 30.2058 573.6025)" fill="#F5F7FA" font-weight="100" font-size="30">in 5 different countries</text> -->
+						 <text
            transform="matrix(1 0 0 1 30.2058 573.6025)"
            fill="#F5F7FA"
            font-weight="100"
            font-size="30"
-           id="text15">After 5 great years at Storebrand, I obtained the title of Senior Front-End Developer</text>
+           id="text15">I am open to new opportunities in the Financial sector.</text></g>
+						 <g
+         id="intro3"><text
+           transform="matrix(1 0 0 1 30.2058 609.6025)"
+           fill="#F5F7FA"
+           font-weight="100"
+           font-size="30"
+           id="text17">I worked &amp; studied in 6 countries in Europe, Asia, America</text>
 <!-- <text transform="matrix(1 0 0 1 30.2058 573.6025)" fill="#F5F7FA" font-weight="100" font-size="30">I am now looking for a full-time engineer position</text> --></g></g><g
        id="macbook"><path
          fill="#586273"
